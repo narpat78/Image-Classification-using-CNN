@@ -11,13 +11,13 @@ Each image is **32×32** pixels with **3 color channels (RGB)**. The dataset is 
 **Classes in CIFAR-10**
 
 The dataset includes the following 10 object categories:
-1. **Airplane** ✈️
-2. **Automobile** 🚗
-3. **Bird** 🐦
-4. **Cat** 🐱
-5. **Deer** 🦌
-6. **Dog** 🐶
-7. **Frog** 🐸
-8. **Horse** 🐴
-9. **Ship** 🚢
-10. **Truck** 🚚
+1. **Airplane** 
+2. **Automobile** 
+3. **Bird** 
+4. **Cat** 
+5. **Deer** 
+6. **Dog** 
+7. **Frog** 
+8. **Horse** 
+9. **Ship** 
+10. **Truck** 
