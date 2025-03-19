@@ -11,5 +11,7 @@ Each image is **32×32** pixels with **3 color channels (RGB)**. The dataset is 
 **Classes in CIFAR-10**
 
 The dataset includes the following 10 object categories:
+
+
 <img src="https://github.com/narpat78/Image-Classification-using-CNN/blob/main/cifar10.png" width="400">
 
