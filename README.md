@@ -14,5 +14,4 @@ The dataset includes the following 10 object categories:
 
 
 <img src="https://github.com/narpat78/Image-Classification-using-CNN/blob/main/cifar10.png" width="400">
-Image Source: (Papers With Code)[https://paperswithcode.com/dataset/cifar-10]
-
+Image Source: [Papers With Code](https://paperswithcode.com/dataset/cifar-10)
